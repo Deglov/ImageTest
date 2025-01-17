@@ -6,6 +6,6 @@
     <title>Image</title>
 </head>
 <body>
-    < img src="webb.png" alt="Image">
+    <img src="webb.png" alt="Image">
 </body>
 </html>
